@@ -1,7 +1,11 @@
 pphtml
 ======
 
-A plugin for the KDE Kate Editor that pretty formats HTML and Javascript. Based on js_beautify
+A plugin for the KDE Kate Editor that pretty formats HTML and Javascript. Based on style_html:
+
+https://github.com/einars/js-beautify/blob/master/beautify-html.js
+
+(although I took the code from jsbeuatifier site).
 
 ##Install
 
