@@ -5,7 +5,7 @@ A plugin for the KDE Kate Editor that pretty formats HTML. Based on style_html:
 
 https://github.com/einars/js-beautify/blob/master/beautify-html.js
 
-(although I took the code from jsbeuatifier site).
+(although I took the current code from the jsbeuatifier site).
 
 ##Install
 
