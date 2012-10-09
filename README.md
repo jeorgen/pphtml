@@ -15,3 +15,6 @@ Put the .js file in ~/.kde/share/apps/katepart/script/
 
 Type the F7 key or select the menu item View->"Switch to Command Line", then type pphtml on that command line. 
 The current document's contents should then be replaced with a pretty printed copy.
+
+You can also bind pphtml to a shortcut key combination. Select "Settings->Configure Shortcuts..." 
+and search for "Pretty prints html"
